@@ -1,0 +1,23 @@
+# عيّنة صغيرة للتجربة. استبدلها بملف halal_whitelist.csv الحقيقي (687 رمز).
+# عمود واحد اسمه base يكفي. الأسطر التي تبدأ بـ # تُتجاهَل.
+base
+BTC
+ETH
+BNB
+SOL
+ADA
+XRP
+DOT
+AVAX
+LINK
+MATIC
+ATOM
+NEAR
+SUI
+APT
+ARB
+OP
+INJ
+FET
+RNDR
+TIA
